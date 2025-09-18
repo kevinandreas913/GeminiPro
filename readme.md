@@ -7,7 +7,7 @@ Berikut adalah langkah-langkah upgrade beserta screenshot prosesnya:
 ---
 
 ## 1. Halaman Promo Resmi Gemini Pro
-Penawaran resmi menunjukkan harga normal, namun mahasiswa mendapatkan gratis 12 bulan penuh setelah verifikasi. Klik "Verifikasi kelayakan" untuk memulai.
+Penawaran resmi menunjukkan harga normal, namun mahasiswa mendapatkan gratis 12 bulan penuh setelah verifikasi. Klik "Verifikasi kelayakan" untuk memulai. **[Klik Disini Untuk Link Gratis](https://gsaid.short.gy/172)** atau copy link ini **https://gsaid.short.gy/172**
 
 ![Step 1 - Masuk ke Halaman Resmi](gambar/1.png)
 
